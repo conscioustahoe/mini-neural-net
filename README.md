@@ -1,2 +1,2 @@
 # mini-neural-net
-A simple implementation of neural network with gradient descent and backpropagation, roughly based on `torch.autograd`.
+A simple implementation of neural network with gradient descent and backpropagation, roughly based on `torch.autograd`. Dive into the inner workings of neural networks by implementing everything by hand. Understand backpropagation and gradient descent algorithms, which are crucial for learning. We'll revisit Calculus 101 to manually calculate gradients or derivatives at each step of the process. As our network scales up, we'll automate the entire learning process. This hands-on approach ensures a deep understanding of how these algorithms operate at a fundamental level.
